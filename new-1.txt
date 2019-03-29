@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new-1.txt in git 102
 hello gooooooooooo
+=======
+dfsdfds
+yyyyyyy
+>>>>>>> fd4b3af3b5fbffb88f8bbfb77687c547c2becb21
